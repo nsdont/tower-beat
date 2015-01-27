@@ -1,0 +1,6 @@
+keyring==4.0
+lxml==3.4.1
+pycrypto==2.6.1
+pync==1.6.1
+requests==2.5.1
+six==1.9.0
